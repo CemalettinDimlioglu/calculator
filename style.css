@@ -34,3 +34,9 @@ border-radius: 20px;
   grid-template-columns: 60px 60px 60px 60px;
 
 }
+.button{
+     background-color: burlywood;
+     margin: 1rem;
+     height: 75px;
+     width: px;
+}

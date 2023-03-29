@@ -33,18 +33,15 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
   border-radius: 50px;
-
 }
 .buttons-container {
   display: grid;
   gap: 10px;
   /* background-color: rgb(47, 0, 255); */
-  grid-template-columns: repeat(4, 1fr) ; 
+  grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(5, 1fr);
-  margin-top: 1rem;  
-
+  margin-top: 1rem;
 }
-
 
 .button {
   background-color: #333;
@@ -58,16 +55,17 @@ body {
   cursor: pointer;
   transition: 0.3;
 }
-.button:active{
-  opacity: 0.5;   
+.button:active {
+  opacity: 0.5;
 }
 .button.function {
   color: black;
   background-color: #a5a5a5;
-
 }
-.button.operator, .button.equal {
-  
+.button.operator,
+.button.equal {
   background-color: #f1a33c;
-
+}
+.button.number-o{
+  
 }

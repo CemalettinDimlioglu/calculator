@@ -18,8 +18,19 @@ body {
   height: 800px;
   padding: 20px;
   border-radius: 50px;
+  /* grid-template-columns: 60px 60px 60px 60px; */
+  align-items: center;
+  flex-direction: column;
+
+}
+.display{
+height: 250px;
+width: 100%;
+background-color: darkolivegreen;
+border-radius: 20px;
+}
+.buttons-container{
+     display: grid;
   grid-template-columns: 60px 60px 60px 60px;
-  /* align-items: center;
-  flex-direction: row; */
 
 }

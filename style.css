@@ -61,3 +61,13 @@ body {
 .button:active{
   opacity: 0.5;   
 }
+.button.function {
+  color: black;
+  background-color: #a5a5a5;
+
+}
+.button.operator, .button.equal {
+  
+  background-color: #f1a33c;
+
+}

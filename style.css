@@ -33,15 +33,21 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
   border-radius: 50px;
-  
+
 }
 .buttons-container {
   display: grid;
-  grid-template-columns: 60px 60px 60px 60px;
+  gap: 10px;
+  background-color: chartreuse;
+  grid-template-columns: repeat(4, 1fr) ; 
+  grid-template-rows: repeat(5, 1fr);  
+
 }
-.button {
+
+
+/* .button {
   background-color: burlywood;
-  margin: 1rem;
+  margin: 1rem;,1fr
   height: 75px;
   width: px;
-}
+} */

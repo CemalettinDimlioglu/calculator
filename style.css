@@ -38,16 +38,26 @@ body {
 .buttons-container {
   display: grid;
   gap: 10px;
-  background-color: chartreuse;
+  /* background-color: rgb(47, 0, 255); */
   grid-template-columns: repeat(4, 1fr) ; 
-  grid-template-rows: repeat(5, 1fr);  
+  grid-template-rows: repeat(5, 1fr);
+  margin-top: 1rem;  
 
 }
 
 
-/* .button {
-  background-color: burlywood;
-  margin: 1rem;,1fr
-  height: 75px;
-  width: px;
-} */
+.button {
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  font-size: 45px;
+  cursor: pointer;
+  transition: 0.3;
+}
+.button:active{
+  opacity: 0.5;   
+}

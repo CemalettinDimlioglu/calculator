@@ -66,9 +66,10 @@ body {
 .button.equal {
   background-color: #f1a33c;
 }
-.button.number-o{
+.button.number-0{
   grid-column: 1 / span 2;
   justify-content: flex-start;
   width: 200px;
+  
 
 }

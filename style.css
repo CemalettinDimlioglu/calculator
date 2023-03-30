@@ -69,8 +69,9 @@ body {
 .button.number-0{
   grid-column: 1 / span 2;
   justify-content: flex-start;
-  width: 200px;
-  /* align-items: center; */
+  width: 215px;
+  border-radius: 55px;
+  padding-left: 93px;
   
 
 }

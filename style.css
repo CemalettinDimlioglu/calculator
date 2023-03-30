@@ -81,5 +81,5 @@ body {
   filter: brightness(150%);
 }
 .button:hover{
-  opacity: ;
+  opacity:0.5 ;
 }

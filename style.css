@@ -34,6 +34,9 @@ body {
   justify-content: space-evenly;
   border-radius: 50px;
 }
+.previous-display{
+  font-size: 30px;
+}
 .buttons-container {
   display: grid;
   gap: 10px;
@@ -71,4 +74,10 @@ body {
   border-radius: 55px;
   padding-left: 93px;
 }
+.button:active, .button:focus{
 
+  filter: brightness(150%);
+}
+.button:hover{
+  opacity: ;
+}

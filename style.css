@@ -36,6 +36,8 @@ body {
 }
 .previous-display{
   font-size: 30px;
+  opacity: 0.5;
+  overflow: hidden;
 }
 .buttons-container {
   display: grid;

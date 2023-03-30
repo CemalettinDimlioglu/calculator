@@ -70,6 +70,7 @@ body {
   grid-column: 1 / span 2;
   justify-content: flex-start;
   width: 200px;
+  /* align-items: center; */
   
 
 }

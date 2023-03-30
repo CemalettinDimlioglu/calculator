@@ -23,7 +23,7 @@ body {
   flex-direction: column;
 }
 .display {
-  background-color: grey;
+  background-color: rgb(62, 8, 196);
   height: 250px;
   width: 100%;
   text-align: right;

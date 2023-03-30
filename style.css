@@ -55,9 +55,7 @@ body {
   cursor: pointer;
   transition: 0.3;
 }
-.button:active {
-  opacity: 0.5;
-}
+
 .button.function {
   color: black;
   background-color: #a5a5a5;
@@ -66,12 +64,10 @@ body {
 .button.equal {
   background-color: #f1a33c;
 }
-.button.number-0{
+.button.number-0 {
   grid-column: 1 / span 2;
   justify-content: flex-start;
   width: 215px;
   border-radius: 55px;
   padding-left: 93px;
-  
-
 }

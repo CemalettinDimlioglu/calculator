@@ -1,32 +1,45 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# Project-05 : Ios Calculator (HC-05)
-
-
+# IOS Calculator
 ## Description
-- Create an IOS calculator with the CSS-GRID structure shown in the image.
+Project aims to create IOS Calculator.
+## Project Skeleton
+```
+IOS Calculator (folder)
+|
+|----readme.md
+|----index.html
+|----style.css
+|----app.js		
+|----images
+```
+## Project-gif
+![IOS-Calculator](https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif)
+## Project-link
+ # IOS Calculator
+## Description
+Project aims to create IOS Calculator.
+## Project Skeleton
+```
+IOS Calculator (folder)
+|
+|----readme.md
+|----index.html
+|----style.css
+|----app.js		
+|----images
+```
+## Project-gif
+![CemalettinDimlioglu-calculator-gif](https://user-images.githubusercontent.com/118989157/232158590-281cad29-1965-443e-bab2-d5ae871af977.gif)
 
-## Expected Outcome
-
-![CSS-GRID IOS CALCULATOR](./css-grid-ios.png)
-
-## Objective
-
-Design a IOS CALCULATOR that is functionally similar to this: [IOS CALCULATOR](https://css-grid-ios.netlify.app/)
+## Project-link
+https://ios-calculator-ios.netlify.app/
+### At the end of the project, following topics are to be covered;
+- HTML
+- CSS
+- JS
+(206 kB)
 
 ### At the end of the project, following topics are to be covered;
-
-- HTML 
-
+- HTML
 - CSS
-
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-
-
-<p align="center"> ⌛ Happy Coding  ✍ </p>
+- JS
+(206 kB)
